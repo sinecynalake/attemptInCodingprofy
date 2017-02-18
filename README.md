@@ -4,4 +4,5 @@
 
 Содержание:
 - [Глава 1. Первая программа.](https://github.com/sinecynalake/attemptInCodingprofy/blob/master/chapter-1-first-program.cpp)
-- [Глава 2. Обустраиваем рабочее место](cсылка)
+- [Глава 2. Обустраиваем рабочее место.](https://github.com/sinecynalake/attemptInCodingprofy/blob/master/chapter-2-equip-the-workplace.cpp)
+- [Глава 3. Типы данных и правила именования. (В разработке)] (ссылка)
